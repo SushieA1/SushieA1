@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">SushieA1.o</h1>
 
-<!--
-**SushieA1/SushieA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 style="display: inline-block">ℹ️ About me </h2>
+<h3 style="display: inline-block"> 
+  
+  ```python
+import java.util.*;
+  ```
+```python
+String[] languagesExpertise = {"Python 🥇", "Java 🥇", "JavaScript 🥈", "Lua 🥈", "C++ 🥉"};
+String[] otherInterests = {"Machine learning", "Cybersecurity",
+ "Applied mathematics", "Mechanical engineering (surface level)"};
 
-Here are some ideas to get you started:
+```
+```python
+Queue<String> order = new PriorityQueue<>();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+order.add(otherInterests[0]); order.add(otherInterests[2]);
+order.add(otherInterests[1]); order.add(otherInterests[3]);
+```
+
+</h3>
+
+</br>
+</br>
+</br>
+
+> [!Note]
+> I am a CS student[^1] who's interested in enhancing his software engineering[^2] skills.
+</br>
+
+[^1]: According to me
+[^2]: Definitely NOT because of the "engineering" title
