@@ -9,14 +9,8 @@ import java.util.*;
 ```python
 String[] languagesExpertise = {"Python 🥇", "Java 🥇", "JavaScript 🥈", "Lua 🥈", "C++ 🥉"};
 String[] otherInterests = {"Machine learning", "Cybersecurity",
- "Applied mathematics", "Mechanical engineering (surface level)"};
+ "Applied mathematics", "Mechanical engineering (as a hobby)"};
 
-```
-```python
-Queue<String> order = new PriorityQueue<>();
-
-order.add(otherInterests[0]); order.add(otherInterests[2]);
-order.add(otherInterests[1]); order.add(otherInterests[3]);
 ```
 
 </h3>
